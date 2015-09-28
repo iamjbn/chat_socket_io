@@ -1,1 +1,1 @@
-nothing to read.
+This is very basic chat application developed based on the tutorial provided in Socket.IO. This node script uses two modules: Express and SocketIO
